@@ -1,4 +1,4 @@
-const BASE_URL = "http://localhost:4000/api/v1"; 
+const BASE_URL = "study-notion-an-ed-tech-mern-stack-project-9adx.vercel.app/api/v1"; 
 
 
 // AUTH ENDPOINTS
