@@ -26,7 +26,7 @@ app.use(cookieParser());
 app.use(
     cors(
         {
-            origin: "https://65143ee551d2c92f4ee577b6--thunderous-stardust-96d3a5.netlify.app",
+            origin: "*",
             credentials: true
         }
     )
