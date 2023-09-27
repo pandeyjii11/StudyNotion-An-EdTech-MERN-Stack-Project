@@ -1,4 +1,4 @@
-const BASE_URL = "https://study-notion-an-ed-tech-mern-stack-project-api.vercel.app/api/v1"; 
+const BASE_URL = "https://study-notion-an-ed-tech-mern-stack-project.vercel.app/api/v1"; 
 
 
 // AUTH ENDPOINTS
