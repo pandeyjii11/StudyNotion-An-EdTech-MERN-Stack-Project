@@ -217,7 +217,7 @@ const Footer = () => {
                     </div>
                     {/* Right Div */}
                     <div className="text-center items-end">
-                        Made with ❤️ CodeHelp © 2023 StudyNotion
+                        Made with ❤️ Nitish Pandey © 2023 StudyNotion
                     </div>
                 </div>
             </div>
